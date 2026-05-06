@@ -29,7 +29,7 @@ Learning toolbox
   <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=flat&logo=google&logoColor=white" alt="Gemini API"/>
 </p>
 Pinned projects
-The pinned projects are early-stage on purpose — they're meant to show what I'm working on and my journey into the STEM field, not to look like senior engineering work.
+The pinned projects are early-stage on purpose — they're meant to show what I'm working on and my journey into the STEM field.
 
 learning-python  ·  my self-study notebook, organised week by week
 telecare-alarm-analysis  ·  pandas analysis on synthetic telecare alarm data
