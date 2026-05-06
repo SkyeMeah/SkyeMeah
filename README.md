@@ -31,10 +31,7 @@ Learning toolbox
 Pinned projects
 - The pinned projects are early-stage on purpose — they're meant to show what I'm working on and my journey into the STEM field.
 
-- learning-python: my self-study notebook, organised week by week
-- telecare-alarm-analysis: pandas analysis on synthetic telecare alarm data
-- llm-doc-summariser: a small CLI that summarises long documents using an LLM
-
+- [telecare-alarm-analysis](https://github.com/SkyeMeah/telecare-alarm-analysis) — pandas analysis on synthetic telecare alarm data
 
 <p align="center">
   If you're a recruiter, my CV and LinkedIn are the best place to start.
