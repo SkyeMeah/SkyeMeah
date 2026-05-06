@@ -29,11 +29,11 @@ Learning toolbox
   <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=flat&logo=google&logoColor=white" alt="Gemini API"/>
 </p>
 Pinned projects
-The pinned projects are early-stage on purpose — they're meant to show what I'm working on and my journey into the STEM field.
+- The pinned projects are early-stage on purpose — they're meant to show what I'm working on and my journey into the STEM field.
 
-learning-python  ·  my self-study notebook, organised week by week
-telecare-alarm-analysis  ·  pandas analysis on synthetic telecare alarm data
-llm-doc-summariser  ·  a small CLI that summarises long documents using an LLM
+- learning-python: my self-study notebook, organised week by week
+- telecare-alarm-analysis: pandas analysis on synthetic telecare alarm data
+- llm-doc-summariser: a small CLI that summarises long documents using an LLM
 
 
 <p align="center">
