@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Sunderland%2C%20UK-555?style=flat" alt="Based in Sunderland"/>
 </p>
 
-About
+About<br><br>
 I'm a recent BSc Physiotherapy graduate from Teesside University (2:1) and a Telecare Response Officer for Sunderland Telecare. Day-to-day I install connected-care devices in customers' homes and respond to live emergency alarms.
 Working in healthcare, and now hands-on with the technology that supports it, has shown me how much good data and well-built AI tools could do for the people who need care most. That's the work I want to be part of.
 Currently
